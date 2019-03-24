@@ -1,10 +1,10 @@
 # Site settings
-title: 马尔克ov的博客
-SEOTitle: 马尔克ov的博客
+title: LmYjQ的博客
+SEOTitle: LmYjQ的博客
 header-img: img/post-bg-desk.jpg
 email: 396046253@qq.com
 description: "Every failure is leading towards success."
-keyword: "马尔克ov，算法，音乐"
+keyword: "LmYjQ，算法，音乐"
 url: "http://LmYjQ.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/LmYjQ/LmYjQ.github.io.git" # you code repository
